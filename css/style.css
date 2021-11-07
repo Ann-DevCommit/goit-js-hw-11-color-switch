@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+button {
+  padding: 15px;
+  font-size: 30px;
+}
+
+button:hover {
+  cursor: pointer;
+}
